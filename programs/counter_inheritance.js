@@ -19,7 +19,6 @@ function App() {
   <React.Fragment>
     <Button incFunc={incrementCounter}/>
     <Display message={counter}/>
-    
   </React.Fragment>
   );
 }
