@@ -5,7 +5,7 @@ This project contains the exercise files for the entry level React17 course on P
 *These steps will trigger the server to automatically open a browser pointed towards port 3000*
 
 ```
-cd demos
+cd demos/<app>
 npm start
 ```
 
